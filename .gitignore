@@ -1,0 +1,17 @@
+# Fichiers lourds
+*.parquet
+*.csv
+*.gz
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
